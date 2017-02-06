@@ -10,7 +10,7 @@ Import the actions into Photoshop by choosing the Action window->menu->load acti
 http://unity3d.com/support/documentation/Manual/HOWTO-alphamaps.html
 
 and downloaded from here:
-http://unity3d.com/support/documentation/Images/manual/AlphaUtility.atn.zip
+https://docs.unity3d.com/uploads/Examples/AlphaUtility.atn.zip
 
 The CovertToUnityPSD action expects there to be one layer to your image, with transparency, and the layer should be named 'texture'. This action takes care of all the defringing and background layering and alpha channel addition.
 
